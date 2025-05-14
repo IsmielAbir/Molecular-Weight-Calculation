@@ -35,4 +35,5 @@ O(6) × 15.999 = 95.994
 molweightcal performs thorough input validation to detect and report issues such as:
 
 ✅ Unknown chemical elements (e.g., "Z6H2")
+
 ✅ Lowercase letters in invalid positions, etc.
