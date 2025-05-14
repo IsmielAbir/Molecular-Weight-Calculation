@@ -6,7 +6,9 @@
 
 ## Features
 ✅ Provides step-by-step calculation for each element
+
 ✅ Supports all known elements
+
 ✅ Lightweight and fast — no external dependencies
 
 ## 🔧 Installation
